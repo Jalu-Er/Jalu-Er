@@ -1,9 +1,3 @@
-Hi there 👋
+### Hi, I'm Jalu 👋
 
-
-**Jalu-Er** is a ✨ _special_ ✨
-
-
-- 🌱 I’m currently learning C++, C#, Java
-
-
+Just a curious learner exploring the world of programming. Currently building experimental projects and sharpening my fundamentals in Python, C++, C#, and Java.
